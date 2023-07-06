@@ -1,0 +1,15 @@
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\bin\Debug\net7.0\Custom Exception Codes.exe
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\bin\Debug\net7.0\Custom Exception Codes.deps.json
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\bin\Debug\net7.0\Custom Exception Codes.runtimeconfig.json
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\bin\Debug\net7.0\Custom Exception Codes.dll
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\bin\Debug\net7.0\Custom Exception Codes.pdb
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.csproj.AssemblyReference.cache
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.AssemblyInfoInputs.cache
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.AssemblyInfo.cs
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.csproj.CoreCompileInputs.cache
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.dll
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\refint\Custom Exception Codes.dll
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.pdb
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\Custom Exception Codes.genruntimeconfig.cache
+C:\Users\biohazard\source\repos\Custom Exception Codes\Custom Exception Codes\obj\Debug\net7.0\ref\Custom Exception Codes.dll
