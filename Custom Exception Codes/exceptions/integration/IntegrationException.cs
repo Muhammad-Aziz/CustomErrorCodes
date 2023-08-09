@@ -9,7 +9,7 @@ namespace Custom_Exception_Codes.exceptions.integration
     public class IntegrationException : GeneralException
     {
         private readonly int _code = 10000;
-
+        
         // general inegration exception -> throw when specific error is not defined yet
         public IntegrationException(string message) : base(message)
         {

@@ -9,7 +9,7 @@ using static System.Runtime.InteropServices.JavaScript.JSType;
 namespace Custom_Exception_Codes.exceptions.resources.database
 {
     public class DatabaseResourceException : ResourceException
-    {
+    {   
         private readonly int _code = 100;
         public DatabaseResourceException(string message) : base(message)
         {

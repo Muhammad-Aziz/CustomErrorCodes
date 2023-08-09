@@ -52,7 +52,7 @@ namespace Custom_Exception_Codes.exceptions
 
         protected void UpdateMessage(string message, int code)
         {
-            _message = string.Concat("[E", code, "] ", message);
+            _message = string.Concat("[MU", code, "] ", message);
         }
 
         public override string Message
